@@ -1,1 +1,1 @@
-Short Todo application
+Small Todo application
